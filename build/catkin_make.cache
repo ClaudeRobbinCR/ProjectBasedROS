@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/claude/wallfollower/devel -DCMAKE_INSTALL_PREFIX=/home/claude/wallfollower/install -G Unix Makefiles
