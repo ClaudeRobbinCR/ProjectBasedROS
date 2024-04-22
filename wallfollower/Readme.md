@@ -1,1 +1,1 @@
-
+A wallfollower would be a robot that could avoid bumping into walls but still have the ability to "follow it" throughout its path. Use? Roombas and primitive boundary markers (use case where the entirety of the map didn't have to be mapped but only the very extreme boundaries) 
